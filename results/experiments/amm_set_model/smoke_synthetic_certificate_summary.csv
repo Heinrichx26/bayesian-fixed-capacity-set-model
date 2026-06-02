@@ -1,0 +1,4 @@
+group,cells,damage_rate,median_support,median_boundary_excess
+Boundary,7.2,0.47200561987289963,3.0,0.07271727254181246
+Unstable,19.8,0.3051953461292317,2.0,0.03212875394371173
+High certificate,0.0,,,

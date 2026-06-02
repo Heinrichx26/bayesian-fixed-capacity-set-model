@@ -1,0 +1,15 @@
+﻿certificate_group,rank_within_group,component,phase,size,aircraft_mass_class,posterior_mean,capacity_membership_probability,capacity_boundary_excess,historical_support,historical_damage,fallback_level,future_units,future_damage,future_cost,future_aos
+High-certainty,1,lights,departure,MEDIUM,4,0.8259840761474656,1.0,0.6258604912793182,10,9,component|phase_bucket|size|aircraft_mass_class,1,1,0.0,96.0
+High-certainty,2,lights,arrival,MEDIUM,4,0.802316443134079,1.0,0.5949699369243426,17,14,component|phase_bucket|size|aircraft_mass_class,4,3,0.0,2.5
+High-certainty,3,wing_rotor,enroute,LARGE,1,0.7714392164216473,1.0,0.5645888639367989,37,30,component|phase_bucket|size|aircraft_mass_class,8,5,10.0,1.5
+High-certainty,4,windshield,enroute,LARGE,1,0.7314845923979887,1.0,0.5180108414180373,10,9,component|phase_bucket|size|aircraft_mass_class,2,2,0.0,0.0
+High-certainty,5,windshield,enroute,LARGE,2,0.711368684412406,1.0,0.5005224402691525,19,15,component|phase_bucket|size|aircraft_mass_class,2,1,17000.0,72.0
+High-certainty,6,engine,departure,LARGE,4,0.701047342104036,1.0,0.49432495329060927,103,73,component|phase_bucket|size|aircraft_mass_class,17,10,7618200.0,485.0
+Boundary,1,fuselage,departure,LARGE,3,0.27792805079687016,0.747,0.0827421726354345,10,3,component|phase_bucket|size|aircraft_mass_class,4,1,0.0,0.0
+Boundary,2,propeller,departure,LARGE,2,0.27536413090763256,0.739,0.0766546683361086,10,3,component|phase_bucket|size|aircraft_mass_class,4,0,0.0,0.0
+Boundary,3,wing_rotor,departure,UNKNOWN,2,0.254180195470444,0.7268571428571429,0.06482161434920494,21,6,component|phase_bucket|size|aircraft_mass_class,7,4,0.0,7.0
+Boundary,4,propeller,departure,LARGE,4,0.2507282618152651,0.778,0.05187547815076769,44,13,component|phase_bucket|size,1,0,0.0,0.0
+Boundary,5,wing_rotor,enroute,MEDIUM,2,0.23995992592918713,0.7095,0.04153000135651007,51,11,component|phase_bucket|size|aircraft_mass_class,12,1,0.0,85.5
+Boundary,6,tail,departure,MEDIUM,4,0.2575848812526678,0.706,0.06398656351033966,12,3,component|phase_bucket|size|aircraft_mass_class,3,1,300.0,11.0
+
+

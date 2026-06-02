@@ -1,0 +1,7 @@
+﻿capacity,certificate_group,units,unit_share
+0.05,High certificate,7,0.5384615384615384
+0.05,Boundary,6,0.46153846153846156
+0.05,Unstable,0,0.0
+0.1,High certificate,17,0.68
+0.1,Boundary,8,0.32
+0.1,Unstable,0,0.0

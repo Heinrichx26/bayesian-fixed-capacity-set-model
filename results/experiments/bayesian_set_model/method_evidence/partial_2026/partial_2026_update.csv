@@ -1,0 +1,3 @@
+﻿train_start,train_end,test_year,capacity,test_component_units,damage_units,selected_units,selected_damage_units,damage_capture,selected_hit_rate,damage_lift,cost_capture,aos_capture,high_certificate_share,boundary_share,unstable_share
+2021,2025,2026,0.05,241,28,13,7,0.25,0.5384615384615384,4.634615384615384,1.0,0.30939226519337015,0.5384615384615384,0.46153846153846156,0.0
+2021,2025,2026,0.1,241,28,25,12,0.42857142857142855,0.48,4.131428571428571,1.0,0.850828729281768,0.68,0.32,0.0
